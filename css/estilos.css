@@ -1,0 +1,22 @@
+*{
+    font-family: 'Belanosima', sans-serif;
+}
+
+body{
+    margin: 20px;
+}
+
+.icono-principal{
+    color: red;
+    font-size: 30px;
+}
+.contenedor-carrusel{
+    height: 400px;
+}
+.contenedor-tarjeta{
+    margin: 20px;
+    padding: 5px;
+}
+.row{
+    border: 2px solid blue;
+}
